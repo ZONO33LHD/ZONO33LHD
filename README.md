@@ -1,4 +1,4 @@
-[![Twitter: maki_saki](https://img.shields.io/twitter/follow/maki_saki?style=social)](https://twitter.com/maki_saki)
+[![X: ぞの助](https://img.shields.io/twitter/follow/maki_saki?style=social)](https://x.com/ZONOMAN100ZONO)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=ZONO33LHD&left_color=gray&right_color=blue)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZONO33LHD&theme=vue)
