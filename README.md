@@ -1,4 +1,15 @@
-## 👋 Hi! I'm ZONO33LHD
+## 👋 Hi! I'm S.Nakazono
+### 経歴
+現在、SES企業に所属しておりFintechシステムの開発の現場に参画しています。アジャイルのスクラム開発で基本設計～試験、運用が担当フェーズになります。現場とは別で13名チームの社内プロジェクにおいて開発リーダーをしており、フルスタックで開発を推進しております。社内プロジェクトの技術スタックはTypeScript(React、Next.js)、Java(Sprintboot)、MySQL、Docker、NGINX、AWSです。
+- エンジニア転職(2023年3月～現在)
+- 前職
+  - 航空自衛官(2007年3月~2023年2月)
+    - 10名の部下を持つマネージメント経験あり
+- 主言語
+  - Java
+  - TypeScript
+  - SQL 
+
 
 <p align="left"> 
   <a href="https://github.com/ZONO33LHD/ZONO33LHD/"><img src="https://komarev.com/ghpvc/?username=ZONO33LHD" alt="ZONO33LHD" /></a>
@@ -22,10 +33,6 @@
   <a href="https://ZONO33LHD.github.io/"><img alt="homepage" width="30px" src="https://cdn.jsdelivr.net/npm/svg-icon@0.8.2/dist/svg/flat/home.svg" style="color: #0000FF;" /></a>
   <a href="https://x.com/ZONOMAN100ZONO"><img alt="x" width="30px" src="https://simpleicons.org/icons/x.svg" style="color: #1DA1F2;" /></a>
   <a href="https://qiita.com/ZONO33LHD"><img alt="qiita" width="30px" src="https://simpleicons.org/icons/qiita.svg" style="color: #55C500;" /></a>
-  <a href="https://dev.to/ZONO33LHD" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ZONO33LHD" height="30" width="30" style="color: #0A0A0A;" /></a>
-  <a href="https://stackoverflow.com/users/ZONO33LHD" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="ZONO33LHD" height="30" width="30" style="color: #F48024;" /></a>
-  <a href="https://www.quora.com/profile/ZONO33LHD" target="blank"><img src="https://simpleicons.org/icons/quora.svg" alt="ZONO33LHD" height="30" width="30" style="color: #B92B27;" /></a>
-  <a href="https://ossinsight.io/analyze/ZONO33LHD" target="blank"><img src="https://cdn.jsdelivr.net/npm/svg-icon@0.8.2/dist/svg/mfglabs/eye.svg" alt="ZONO33LHD" height="30" width="30" style="color: #0000FF;" /></a>
 </p>
 
 ### Recent Activities
@@ -43,34 +50,6 @@
 [![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZONO33LHD&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZONO33LHD&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZONO33LHD&layout=compact&count_private=true&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-### OSS Insight
-
-<!-- Copy-paste in your Readme.md file -->
-
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=8683947" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=8683947&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @ZONO33LHD" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=8683947&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
-<!-- Copy-paste in your Readme.md file -->
-
-<a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=8683947&activity_type=all" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=8683947&activity_type=all&image_size=auto&color_scheme=dark" width="497.5" height="auto">
-    <img alt="@ZONO33LHD's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=8683947&activity_type=all&image_size=auto&color_scheme=light" width="497.5" height="auto">
-  </picture>
-</a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
-### Achievement
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ZONO33LHD&no-frame=true&no-bg=true&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Metrics
 
