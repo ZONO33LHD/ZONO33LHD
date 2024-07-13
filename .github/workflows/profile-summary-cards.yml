@@ -37,7 +37,5 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Update README with GitHub Stats"
-            git push
+            git push https://ZONO33LHD:${{ secrets.PAT }}@github.com/ZONO33LHD/ZONO33LHD.git
           fi
-        env:
-          GITHUB_TOKEN: ${{ secrets.PAT }}
