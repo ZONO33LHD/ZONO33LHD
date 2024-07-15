@@ -1,15 +1,21 @@
 ## 👋 Hi! I'm S.Nakazono
-### 経歴
-現在、SES企業に所属しておりFintechシステムの開発の現場に参画しています。アジャイルのスクラム開発で基本設計～試験、運用が担当フェーズになります。現場とは別で13名チームの社内プロジェクにおいて開発リーダーをしており、フルスタックで開発を推進しております。社内プロジェクトの技術スタックはTypeScript(React、Next.js)、Java(Sprintboot)、MySQL、Docker、NGINX、AWSです。
+### はじめに
+現在、SES企業に所属しておりFintechシステムの開発の現場に参画しています。アジャイルのスクラム開発で基本設計～試験、運用が担当フェーズになります。現場とは別で13名チームの社内プロジェクにおいて開発リーダーをしており、フルスタックで開発を推進しております。
 - エンジニア転職(2023年3月～現在)
-- 前職
+- 経歴等
   - 航空自衛官(2007年3月~2023年2月)
     - 10名の部下を持つマネージメント経験あり
+  - エンジニア1社目(2023年3月~2023年8月)
+    - SES企業入社するも給与未払いのため転職
+  - エンジニア2社目(2023年8月~現在)
+    - 社内プロジェクトのリーダー(2023年10月~現在)
+      - Nextjs,TypeScript,Springboot,MySQL,Docker,NGINX,AWS(Route53,Cognito,NLB,EC2,RDS...etc)
+    - Fintechシステムの開発(2023年9月~現在)
+      - JSP,jQuery,Seasar2,Java,Oracle
 - 主言語
   - Java
   - TypeScript
-  - SQL 
-
+  - SQL
 
 <p align="left"> 
   <a href="https://github.com/ZONO33LHD/ZONO33LHD/"><img src="https://komarev.com/ghpvc/?username=ZONO33LHD" alt="ZONO33LHD" /></a>
