@@ -38,7 +38,6 @@ Go言語エンジニアを目指してます。
 </p>
 
 <p align="left"> 
-  <a href="https://ZONO33LHD.github.io/"><img alt="homepage" width="30px" src="https://cdn.jsdelivr.net/npm/svg-icon@0.8.2/dist/svg/flat/home.svg" style="color: #0000FF;" /></a>
   <a href="https://x.com/ZONOMAN100ZONO"><img alt="x" width="30px" src="https://simpleicons.org/icons/x.svg" style="color: #1DA1F2;" /></a>
   <a href="https://qiita.com/ZONO33LHD"><img alt="qiita" width="30px" src="https://simpleicons.org/icons/qiita.svg" style="color: #55C500;" /></a>
 </p>
