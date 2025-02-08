@@ -12,10 +12,12 @@ Go言語エンジニアを目指してます。
   - エンジニア2社目(2023年8月~現在)
     - 社内プロジェクトのリーダー(2023年10月~現在)
       - Nextjs,TypeScript,Springboot,MySQL,Docker,NGINX,AWS(Route53,Cognito,NLB,EC2,RDS...etc)
-    - Fintechシステムの開発(2023年9月~現在)
+    - Fintechシステムの開発(2023年9月~2024年11月)
       - JSP,jQuery,Seasar2,Java,Oracle
+    - 医療Saasのソフトウェアエンジニア(2024年12月~現在)
+      - Golang, Next.js, Hasura, GraphQL, GCP, PostgreSQL, Git 
 - 主言語
-  - Java
+  - Golang
   - TypeScript
   - SQL
 
