@@ -8,7 +8,7 @@ Golang、GCP(CloudRun、 CloudScheduler、 BigQuery Dataform含む)、PostgreSQL
     - 10名の部下を持つマネージメント経験あり（職種：飛行管理員）
   - エンジニア1社目(2023年3月~2023年8月)
     - SES企業入社するも給与未払いのため転職
-  - エンジニア2社目(2023年8月~現在)
+  - エンジニア2社目(2023年8月~2024年11月)
     - 社内プロジェクトのリーダー(2023年10月~2024年11月)
       - Nextjs,TypeScript,Springboot,MySQL,Docker,NGINX,AWS(Route53,Cognito,NLB,EC2,RDS...etc)
     - Fintechシステムの開発(2023年9月~2024年11月)
