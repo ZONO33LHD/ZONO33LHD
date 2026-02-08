@@ -9,7 +9,7 @@ Golang、GCP(CloudRun、 CloudScheduler、 BigQuery Dataform含む)、PostgreSQL
   - エンジニア1社目(2023年3月~2023年8月)
     - SES企業入社するも給与未払いのため転職
   - エンジニア2社目(2023年8月~現在)
-    - 社内プロジェクトのリーダー(2023年10月~現在)
+    - 社内プロジェクトのリーダー(2023年10月~2024年11月)
       - Nextjs,TypeScript,Springboot,MySQL,Docker,NGINX,AWS(Route53,Cognito,NLB,EC2,RDS...etc)
     - Fintechシステムの開発(2023年9月~2024年11月)
       - JSP,jQuery,Seasar2,Java,Oracle
